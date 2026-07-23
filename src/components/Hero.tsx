@@ -20,7 +20,7 @@ export default function Hero() {
           alt="hero-section-bg"
           className="h-full w-full absolute inset-0 opacity-95 object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/30 to-transparent" />
+        <div className="absolute  inset-0 bg-gradient-to-r from-black/70 via-black/30 to-transparent" />
         <Navbar />
 
         <div className="relative rounded-[1.5rem] sm:rounded-[2rem] overflow-hidden min-h-[420px] sm:min-h-[520px] md:min-h-[600px] lg:min-h-[750px] flex items-center">
